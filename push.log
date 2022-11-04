@@ -1,0 +1,2 @@
+[0:00:00][INFO]: Running command 'git remote add dmz ssh://svcmobrel-release@nvidia.com@nv-tegra-nvidia:13002/device/hardware/nvidia/soc/tegra'
+[0:00:00][INFO]: Running command 'git remote add dmz ssh://svcmobrel-release@nvidia.com@nv-tegra-nvidia:13002/device/hardware/nvidia/soc/tegra'
